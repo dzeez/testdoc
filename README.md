@@ -3,7 +3,7 @@
 To get started, go to Replit and open up your Unit 3 project. Then, in to the bottom left Tools menu, click on "Git."
 ![Replit Git menu selection](images/replit_tools_git.png)
 
-Then, on the right, enter a description (eg "add finishing touch"), then click the big orange bottom button "Stage and commit all changes."
+Then, on the right, enter a description (eg "fix final screen logic"), then click the big orange bottom button "Stage and commit all changes."
 ![Replit commit changes](images/replit_commit.png)
 
 Then click "Sync with Remote." 
