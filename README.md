@@ -7,5 +7,5 @@ Then, on the right, enter a description (eg "add finishing touch"), then click t
 
 Then click "Sync with remote." Click "Confirm for this sesion" in the dialog box that appears asking you to pass GitHub credentials.
 
-[!NOTE]
+> [!NOTE]
 It is possible that you will encounter errors relating to GitHub credentials. If so, send me an email.
