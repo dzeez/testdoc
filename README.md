@@ -1,11 +1,15 @@
 # How to commit your project to GitHub
 
-If you have not already, please go to Replit, open your Unit 3 project, go to the bottom left Tools list, and click on "Git."
-
+To get started, go to Replit and open up your Unit 3 project. Then, in to the bottom left Tools menu, click on "Git."
+![Replit Git menu selection](images/replit_tools_git.png)
 
 Then, on the right, enter a description (eg "add finishing touch"), then click the big orange bottom button "Stage and commit all changes."
+![Replit commit changes](images/replit_commit.png)
 
-Then click "Sync with remote." Click "Confirm for this sesion" in the dialog box that appears asking you to pass GitHub credentials.
+Then click "Sync with Remote." 
+![Replit sync with remote button](images/replit_sync_remote.png)
 
-> [!NOTE]
+Click "Confirm for this session" in the dialog box that appears asking you to pass GitHub credentials.
+![Replit pass credentials button](images/replit_pass_credentials.png)
+
 It is possible that you will encounter errors relating to GitHub credentials. If so, send me an email.
