@@ -16,7 +16,7 @@ Click "Confirm for this session" in the dialog box that appears asking you to pa
 
 ![Replit pass credentials button](images/replit_pass_credentials.png)
 
-It is possible that you will encounter errors relating to GitHub credentials. If so, send me an email.
+It is possible that you will encounter errors relating to GitHub credentials. If so, send me an email, or leave a comment in Classroom.
 
 ---
 ## Once you're done with that, proceed to the [next step](publish).
