@@ -32,4 +32,4 @@ There should be a blue, underlined URL in a box near the top. That's your public
 
 ---
 ## One more step
-The final step is to submit your project URL to [this form](https://forms.gle/UmPXoB9yhZt3TVRe6). I will collect all the projects and set up a page with links to all of them.
+The final step is to submit your project URL to [this form](https://forms.gle/UmPXoB9yhZt3TVRe6). We will collect all the projects and set up a page with links to all of them.
