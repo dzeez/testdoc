@@ -22,10 +22,14 @@ Only thing left is to find the URL for the site. Go back to the main page of the
 
 ![repository root](images/github_repo.png)
 
-Look on the right side to see if it says github-pages. Click it, it will open a new tab. There should be a blue, underlined URL in a box near the top. That's your publicly accessible web address. 
+Look on the right side to see if it shows github-pages under Deployments. If it doesn't, reload the page. Click it, it will open a new tab. 
 
-If you copy the URL and paste it into the form (coming soon), I will collect all the projects and set up a page with links to all of them.
+![deployment](images/github_deployment.png)
+
+There should be a blue, underlined URL in a box near the top. That's your publicly accessible web address. Right click the URL and copy it.
+
+![GitHub Pages deployment URL](images/github_pages_deployed.png)
 
 ---
 ## One more step
-The final step is to submit your project URL to [this form](https://forms.gle/UmPXoB9yhZt3TVRe6).
+The final step is to submit your project URL to [this form](https://forms.gle/UmPXoB9yhZt3TVRe6). I will collect all the projects and set up a page with links to all of them.
