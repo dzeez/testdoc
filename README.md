@@ -1,6 +1,6 @@
 # How to commit your project to GitHub
 
-To get started, go to Replit and open up your Unit 3 project. Then, in the bottom left Tools menu, click on "Git."
+To get started, go to Replit and open up your Unit 3 project. Then, on the bottom left in the Tools menu, click on "Git."
 
 ![Replit Git menu selection](images/replit_tools_git.png)
 
