@@ -1,6 +1,6 @@
 # How to commit your project to GitHub
 
-To get started, go to Replit and open up your Unit 3 project. Then, on the bottom left in the Tools menu, click on "Git."
+To get started, go to Replit and open up your Unit 3 project. On the bottom left in the Tools menu, click on "Git."
 
 ![Replit Git menu selection](images/replit_tools_git.png)
 
@@ -8,7 +8,7 @@ Then, on the right, enter a description of the changes, then click the big orang
 
 ![Replit commit changes](images/replit_commit.png)
 
-Then click "Sync with Remote." 
+Click "Sync with Remote." 
 
 ![Replit sync with remote button](images/replit_sync_remote.png)
 
